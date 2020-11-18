@@ -1,4 +1,4 @@
-# Oh My Another zsh Tutorial
+# Oh My Another zsh Tutorial 🙄
 Learn all you need to know to begin your zsh a d v e n t u r e :star:
 
 ## What's to Come...
